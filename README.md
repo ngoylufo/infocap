@@ -1,13 +1,13 @@
 # InfoCap
 
-This is code I wrote around November 2018 for a job interview. I was quite a noob then
-so forgive the lack of style and best practices here. I'm putting the code up here for
-storage reasons mainly. Maybe I'll revisit it some day.
+It's just a simple website (webapp?) for input some data and storing it in a database.
+Then retrieving and presenting that data on a table with some ajax involved.
 
 ## What is this
 
-It's just a simple website (webapp?) for input some data and storing it in a database.
-Then retrieving and presenting that data on a table with some ajax involved.
+This is code I wrote around November 2018 for a job interview. I was quite a noob then
+so forgive the lack of style and best practices here. I'm putting the code up here for
+storage reasons mainly. Maybe I'll revisit it some day.
 
 I wrote it myself, although the ideas here are not entirely my own.
 
